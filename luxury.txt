@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LuxuryItems>
+    <Item>
+        <Name>Luxury Watch</Name>
+        <Brand>Rolex</Brand>
+        <Price>$10,000</Price>
+        <Material>Gold</Material>
+    </Item>
+    <Item>
+        <Name>Designer Handbag</Name>
+        <Brand>Louis Vuitton</Brand>
+        <Price>$3,500</Price>
+        <Material>Leather</Material>
+    </Item>
+    <Item>
+        <Name>Crystal Chandelier</Name>
+        <Brand>Swarovski</Brand>
+        <Price>$5,000</Price>
+        <Material>Crystal</Material>
+    </Item>
+    <Item>
+        <Name>Luxury Car</Name>
+        <Brand>Rolls-Royce</Brand>
+        <Price>$300,000</Price>
+        <Material>Aluminum, Leather</Material>
+    </Item>
+</LuxuryItems>
